@@ -1,5 +1,5 @@
 package com.nfpassarino.simplelogger;
 
-public enum LoggerType {
+enum LoggerType {
 	INFO, ERROR;
 }
